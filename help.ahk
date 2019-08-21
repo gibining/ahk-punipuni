@@ -1226,7 +1226,7 @@ else
 			pdrag(fx,fy,450,850)
 			goto «¡∑æ»Æ¿Œ
 		}
-		imagesearch , Fx, Fy, 38+Win_X, 600+Win_Y, 450+Win_X, 840+Win_Y,*80 img\«¡∑æ»Æ¿Œ.png
+		imagesearch , Fx, Fy, 38+Win_X, 610+Win_Y, 450+Win_X, 840+Win_Y,*80 img\«¡∑æ»Æ¿Œ.png
 		if errorlevel=0
 		{
 			pdrag(fx,fy,450,850)
